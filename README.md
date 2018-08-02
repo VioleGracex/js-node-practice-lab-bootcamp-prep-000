@@ -1,4 +1,4 @@
-# Strings and Numbers Outside of the Browser
+/*# Strings and Numbers Outside of the Browser
 
 In our effort to familiarize ourselves with the Learn IDE, Let's play with strings and numbers again but in the Learn IDE. First things first though, let's open this lab in the Learn IDE. Go ahead and click the blue "Open" button at the top of this page. You should then be _whisked_ away to the IDE. 
 
@@ -46,3 +46,4 @@ Boom! We took away the quotes and now it's a number not a string. You can remove
 Now it's time to submit your work back to learn. Go ahead and run `learn submit` in the terminal. You should then get a few more green lights and be ready to move on to the next lesson. Congratulations
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-node-practice-lab'>Node Practice</a> on Learn.co and start learning to code for free.</p>
+*/
